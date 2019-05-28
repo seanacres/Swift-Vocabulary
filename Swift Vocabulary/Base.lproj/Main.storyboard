@@ -85,8 +85,8 @@
                         <viewLayoutGuide key="safeArea" id="xPQ-lc-K20"/>
                     </view>
                     <connections>
-                        <outlet property="definitionDescription" destination="Rns-YI-YNJ" id="9tv-Mn-yZh"/>
-                        <outlet property="definitionTitle" destination="n17-Ta-J57" id="WkI-EG-nc6"/>
+                        <outlet property="definitionDescription" destination="Rns-YI-YNJ" id="Gy1-qM-4Yd"/>
+                        <outlet property="definitionText" destination="n17-Ta-J57" id="uuu-VX-BT3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pOq-F1-h9y" userLabel="First Responder" sceneMemberID="firstResponder"/>
